@@ -4,7 +4,7 @@
   Python-Newsfeed
 
 ## Description
-This is an app to build a basic newsfeed social media app. I have done a previous version before using Node.js, and this app was used entirely using Python instead. This app allows ones to create comments and posts, vote on the comments, and even comment on the posts.
+This is an app to build a basic newsfeed social media app. I have done a previous version before using Node.js, and this app was used entirely using Python instead. This app allows ones to create comments and posts, vote on the comments, and even comment on the posts. This app uses sqlalchemy, jinja, pymysql, dotenv, bycrypt as well as others.
 
 ## Table-of-Contents
 
